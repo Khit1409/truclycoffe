@@ -1,0 +1,17 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd truclycoffe-be && npm start",
+    "client": "cd truclycoffe-fe && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Nước Ép Dưa Hấu",
+    "price": 17000,
+    "image": "https://th.bing.com/th/id/OIP.U9Shg6dfhCfo3MfjONgsNQHaE8?rs=1&pid=ImgDetMain",
+    "type": "water"
+  },
+  {
+    "name": "Yogurt Đá",
+    "price": 18000,
+    "image": "https://th.bing.com/th/id/OIP.HjniL638AtLVZJM6mIVTwgHaGI?w=205&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "type": "water"
+  },
+  {
+    "name": "Yogurt Dâu",
+    "price": 23000,
+    "image": "https://th.bing.com/th/id/OIP.QZv4BsgX1pNhwpEKvwuLJAHaJ4?w=128&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "type": "water"
+  },
+  {
+    "name": "Yogurt Việt Quất",
+    "price": 23000,
+    "image": "",
+    "type": "water"
+  },
+  {
+    "name": "Yogurt Thạch Đác",
+    "price": 23000,
+    "image": "",
+    "type": "water"
+  },
+  {
+    "name": "Trà Sữa Truyền Thống",
+    "price": 17000,
+    "image": "",
+    "type": "water"
+  },
+  {
+    "name": "Trà Sữa Khoai Môn",
+    "price": 20000,
+    "image": "",
+    "type": "water"
+  },
+  {
+    "name": "Trà Sữa Socola Đường Đen",
+    "price": 18000,
+    "image": "",
+    "type": "water"
+  },
+  {
+    "name": "Trà Sữa Kem Trứng",
+    "price": 22000,
+    "image": "",
+    "type": "water"
+  },
+  {
+    "name": "Trà Sữa Kem Cheese",
+    "price": 22000,
+    "image": "",
+    "type": "water"
+  },
+  {
+    "name": "Sinh Tố Dâu",
+    "price": 26000,
+    "image": "",
+    "type": "water"
+  },
+  {
+    "name": "Soda Chanh",
+    "price": 17000,
+    "image": "https://th.bing.com/th/id/OIP.k-5s6ai6VevbMASyNsmdRgHaE8?rs=1&pid=ImgDetMain",
+    "type": "water"
+  },
+  {
+    "name": "Soda Bạc Hà",
+    "price": 17000,
+    "image": "https://th.bing.com/th/id/OIP.K5hIE9jSXVfeGPpSwgCmNAHaHa?w=160&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "type": "water"
+  },
+  {
+    "name": "Trà Đào",
+    "price": 17000,
+    "image": "https://th.bing.com/th/id/OIP.yjrNYQsD4VjGw7MZUSFzqQHaLH?w=116&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "type": "water"
+  },
+  {
+    "name": "Trà Mãng Cầu",
+    "price": 20000,
+    "image": "https://th.bing.com/th?q=Tr%c3%a0+M%c3%a3ng+C%e1%ba%a7u+Chanh+Leo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-WW&cc=VN&setlang=vi&adlt=strict&t=1&mw=247",
+    "type": "water"
+  },
+  {
+    "name": "Trà Chanh",
+    "price": 18000,
+    "image": "https://th.bing.com/th/id/OIP.js3EON4ZXWJ9x-PdFXlweQHaEK?w=288&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "type": "water"
+  }
+]
